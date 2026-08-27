@@ -1,0 +1,45 @@
+{
+  "id": "w07",
+  "name": "Aviators-work-well-with-casu",
+  "frame_width_mm": 145.9,
+  "lens_width_mm": 57.9,
+  "bridge_mm": 30.1,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 49.0,
+  "anchors": {
+    "bridge_center": [
+      442.0,
+      116.0
+    ],
+    "hinge_left": [
+      0.0,
+      171.0
+    ],
+    "hinge_right": [
+      857.0,
+      169.0
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w07_front.png",
+  "temple_png": "w07_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من Aviators-work-well-with-casual-or-even-business-casual-attire.jpg",
+  "measured": {
+    "cutout_px": [
+      860,
+      343
+    ],
+    "front_span_px": 858,
+    "lens_holes_found": 0,
+    "hinge_span_px": 857,
+    "extracted_from_worn_photo": true,
+    "symmetrized": false,
+    "yaw_deg": 2.1,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

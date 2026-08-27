@@ -1,0 +1,45 @@
+{
+  "id": "w12",
+  "name": "3b9ed152b74d359ed32e402ec8b0",
+  "frame_width_mm": 155.9,
+  "lens_width_mm": 66.5,
+  "bridge_mm": 22.9,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 49.0,
+  "anchors": {
+    "bridge_center": [
+      478.0,
+      103.0
+    ],
+    "hinge_left": [
+      2.0,
+      21.5
+    ],
+    "hinge_right": [
+      918.0,
+      187.5
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w12_front.png",
+  "temple_png": "w12_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من 3b9ed152b74d359ed32e402ec8b047a5--sunglasses-store-cheap-ray-ban-sunglasses.jpg",
+  "measured": {
+    "cutout_px": [
+      921,
+      343
+    ],
+    "front_span_px": 917,
+    "lens_holes_found": 0,
+    "hinge_span_px": 916,
+    "extracted_from_worn_photo": true,
+    "symmetrized": false,
+    "yaw_deg": -2.6,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

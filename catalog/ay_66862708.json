@@ -1,0 +1,40 @@
+{
+  "id": "ay_66862708",
+  "name": "نظارة شمسية رجالي  تومي هيلفيغر عدسات بن",
+  "frame_width_mm": 131.0,
+  "lens_width_mm": 57.0,
+  "bridge_mm": 17.0,
+  "temple_length_mm": 145.0,
+  "lens_height_mm": 40.0,
+  "anchors": {
+    "bridge_center": [
+      456.0,
+      50.8
+    ],
+    "hinge_left": [
+      2.0,
+      99.5
+    ],
+    "hinge_right": [
+      914.0,
+      98.5
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "ay_66862708_front.png",
+  "temple_png": "ay_66862708_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "عيني عينك https://ainyainak.sa/x/p668627083 — مقاسات معلنة من المتجر",
+  "measured": {
+    "cutout_px": [
+      917,
+      300
+    ],
+    "front_span_px": 913,
+    "lens_holes_found": 1,
+    "hinge_span_px": 912,
+    "frame_width_source": "derived_from_lens_bridge"
+  }
+}

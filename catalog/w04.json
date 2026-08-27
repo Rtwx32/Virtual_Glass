@@ -1,0 +1,45 @@
+{
+  "id": "w04",
+  "name": "Donna-Polarized-Black-Aviato",
+  "frame_width_mm": 152.7,
+  "lens_width_mm": 62.4,
+  "bridge_mm": 27.9,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 47.4,
+  "anchors": {
+    "bridge_center": [
+      448.0,
+      84.5
+    ],
+    "hinge_left": [
+      2.0,
+      29.0
+    ],
+    "hinge_right": [
+      899.0,
+      101.0
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w04_front.png",
+  "temple_png": "w04_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من Donna-Polarized-Black-Aviators-Sunglasses-Men-Glasses-Classic-Brand-Designer-Pilot-Mens-Eyegalsses-D24.jpg",
+  "measured": {
+    "cutout_px": [
+      902,
+      332
+    ],
+    "front_span_px": 898,
+    "lens_holes_found": 0,
+    "hinge_span_px": 897,
+    "extracted_from_worn_photo": true,
+    "symmetrized": false,
+    "yaw_deg": -0.5,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

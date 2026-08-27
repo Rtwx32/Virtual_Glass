@@ -1,0 +1,115 @@
+{
+  "image": "1280x886",
+  "faces": [
+    {
+      "idx": 0,
+      "bbox_px": [
+        110.2,
+        142.4
+      ],
+      "det_score": 0.871,
+      "if_pose_builtin": [
+        -13.5,
+        -54.8,
+        -8.2
+      ],
+      "if_106_ms": 4.8,
+      "mp_ms": 12.1,
+      "mp_found": true,
+      "mp_pose": [
+        158.7,
+        56.4,
+        165.5
+      ],
+      "mp_ipd_iris_px": 24.05,
+      "if_ipd_kps_px": 28.93,
+      "if_jitter_pct_ipd": 0.7879999876022339,
+      "mp_jitter_pct_ipd": 1.224,
+      "if_jitter_n": 12,
+      "mp_jitter_n": 12
+    },
+    {
+      "idx": 1,
+      "bbox_px": [
+        108.8,
+        137.5
+      ],
+      "det_score": 0.879,
+      "if_pose_builtin": [
+        -0.2,
+        6.8,
+        -25.3
+      ],
+      "if_106_ms": 4.8,
+      "mp_ms": 6.3,
+      "mp_found": true,
+      "mp_pose": [
+        152.7,
+        -9.7,
+        174.1
+      ],
+      "mp_ipd_iris_px": 45.38,
+      "if_ipd_kps_px": 48.24,
+      "if_jitter_pct_ipd": 0.25,
+      "mp_jitter_pct_ipd": 0.38,
+      "if_jitter_n": 12,
+      "mp_jitter_n": 12
+    },
+    {
+      "idx": 2,
+      "bbox_px": [
+        107.5,
+        146.9
+      ],
+      "det_score": 0.92,
+      "if_pose_builtin": [
+        -21.8,
+        -1.7,
+        14.6
+      ],
+      "if_106_ms": 5.5,
+      "mp_ms": 6.7,
+      "mp_found": true,
+      "mp_pose": [
+        -166.3,
+        12.9,
+        -170.7
+      ],
+      "mp_ipd_iris_px": 48.6,
+      "if_ipd_kps_px": 51.05,
+      "if_jitter_pct_ipd": 0.19200000166893005,
+      "mp_jitter_pct_ipd": 0.234,
+      "if_jitter_n": 12,
+      "mp_jitter_n": 12
+    },
+    {
+      "idx": 3,
+      "bbox_px": [
+        103.8,
+        121.4
+      ],
+      "det_score": 0.886,
+      "if_pose_builtin": [
+        -2.1,
+        -36.7,
+        -29.1
+      ],
+      "if_106_ms": 4.7,
+      "mp_ms": 6.1,
+      "mp_found": true,
+      "mp_pose": [
+        148.8,
+        45.1,
+        169.6
+      ],
+      "mp_ipd_iris_px": 32.7,
+      "if_ipd_kps_px": 34.92,
+      "if_jitter_pct_ipd": 0.453000009059906,
+      "mp_jitter_pct_ipd": 0.266,
+      "if_jitter_n": 12,
+      "mp_jitter_n": 12
+    }
+  ],
+  "insightface_full_frame_ms": 754.9,
+  "n_faces": 6
+}

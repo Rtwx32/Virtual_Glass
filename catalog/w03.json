@@ -1,0 +1,45 @@
+{
+  "id": "w03",
+  "name": "Donna-Flat-Mirror-Sunglasses",
+  "frame_width_mm": 150.4,
+  "lens_width_mm": 62.1,
+  "bridge_mm": 26.2,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 44.8,
+  "anchors": {
+    "bridge_center": [
+      441.0,
+      82.0
+    ],
+    "hinge_left": [
+      2.0,
+      11.0
+    ],
+    "hinge_right": [
+      886.0,
+      22.0
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w03_front.png",
+  "temple_png": "w03_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من Donna-Flat-Mirror-Sunglasses-Mens-Square-Polarized-Frame-Vintage-Oversized-Glasses-Goggles-Trend-Driving-Eyewear-D38.jpg",
+  "measured": {
+    "cutout_px": [
+      889,
+      314
+    ],
+    "front_span_px": 885,
+    "lens_holes_found": 0,
+    "hinge_span_px": 884,
+    "extracted_from_worn_photo": true,
+    "symmetrized": false,
+    "yaw_deg": -0.2,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ay_14507229",
+  "name": "نظارة شمسية  كارولينا هيريرا بتصميم فاخر",
+  "frame_width_mm": 133.0,
+  "lens_width_mm": 55.0,
+  "bridge_mm": 23.0,
+  "temple_length_mm": 145.0,
+  "lens_height_mm": 40.0,
+  "anchors": {
+    "bridge_center": [
+      461.0,
+      143.5
+    ],
+    "hinge_left": [
+      2.0,
+      180.5
+    ],
+    "hinge_right": [
+      910.0,
+      165.0
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "ay_14507229_front.png",
+  "temple_png": "ay_14507229_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "عيني عينك https://ainyainak.sa/x/p1450722950 — مقاسات معلنة من المتجر",
+  "measured": {
+    "cutout_px": [
+      913,
+      417
+    ],
+    "front_span_px": 909,
+    "lens_holes_found": 0,
+    "hinge_span_px": 908,
+    "frame_width_source": "derived_from_lens_bridge"
+  }
+}

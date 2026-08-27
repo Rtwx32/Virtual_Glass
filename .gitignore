@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large binaries / tools
+cloudflared.exe
+*.exe
+
+# Scraped / generated working data
+work/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

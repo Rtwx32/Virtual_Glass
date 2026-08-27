@@ -1,0 +1,45 @@
+{
+  "id": "w01",
+  "name": "5d35ac96e33d7_man-wearing-ra",
+  "frame_width_mm": 125.8,
+  "lens_width_mm": 49.7,
+  "bridge_mm": 26.3,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 42.0,
+  "anchors": {
+    "bridge_center": [
+      372.0,
+      147.5
+    ],
+    "hinge_left": [
+      2.0,
+      138.5
+    ],
+    "hinge_right": [
+      741.0,
+      138.5
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w01_front.png",
+  "temple_png": "w01_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من 5d35ac96e33d7_man-wearing-ray-ban-aviator-sunglasses.jpg",
+  "measured": {
+    "cutout_px": [
+      744,
+      295
+    ],
+    "front_span_px": 740,
+    "lens_holes_found": 0,
+    "hinge_span_px": 739,
+    "extracted_from_worn_photo": true,
+    "symmetrized": true,
+    "yaw_deg": -16.5,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

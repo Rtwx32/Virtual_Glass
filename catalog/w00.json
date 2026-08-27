@@ -1,0 +1,45 @@
+{
+  "id": "w00",
+  "name": "2dfc8e7515c030d5f6b1566d9ac9",
+  "frame_width_mm": 154.4,
+  "lens_width_mm": 66.9,
+  "bridge_mm": 20.6,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 49.0,
+  "anchors": {
+    "bridge_center": [
+      417.0,
+      133.5
+    ],
+    "hinge_left": [
+      2.0,
+      164.5
+    ],
+    "hinge_right": [
+      909.0,
+      171.0
+    ],
+    "lens_center_left": null,
+    "lens_center_right": null
+  },
+  "front_png": "w00_front.png",
+  "temple_png": "w00_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "مستخرج من 2dfc8e7515c030d5f6b1566d9ac97539--ray-ban-glasses-cat-eye-sunglasses.jpg",
+  "measured": {
+    "cutout_px": [
+      910,
+      343
+    ],
+    "front_span_px": 908,
+    "lens_holes_found": 0,
+    "hinge_span_px": 907,
+    "extracted_from_worn_photo": true,
+    "symmetrized": false,
+    "yaw_deg": -6.1,
+    "notes": [
+      "المقياس نسبي لوجه اللابس بافتراض حجم قانوني (خطأ ≈±5%)"
+    ]
+  }
+}

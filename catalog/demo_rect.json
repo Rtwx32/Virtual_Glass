@@ -1,0 +1,46 @@
+{
+  "id": "demo_rect",
+  "name": "إطار مستطيل تجريبي",
+  "frame_width_mm": 122.0,
+  "lens_width_mm": 52.0,
+  "bridge_mm": 18.0,
+  "temple_length_mm": 140.0,
+  "lens_height_mm": 40.0,
+  "anchors": {
+    "bridge_center": [
+      336.0,
+      65.0
+    ],
+    "hinge_left": [
+      2.0,
+      59.0
+    ],
+    "hinge_right": [
+      671.0,
+      59.0
+    ],
+    "lens_center_left": [
+      165.54112115544473,
+      92.51218308395677
+    ],
+    "lens_center_right": [
+      507.44589329315806,
+      92.51218245103642
+    ]
+  },
+  "front_png": "demo_rect_front.png",
+  "temple_png": "demo_rect_temple.png",
+  "temple_is_synthetic": true,
+  "lens_opacity": null,
+  "source_note": "صورة مولّدة للاختبار",
+  "measured": {
+    "cutout_px": [
+      674,
+      186
+    ],
+    "front_span_px": 670,
+    "lens_holes_found": 2,
+    "hinge_span_px": 669,
+    "frame_width_source": "derived_from_lens_bridge"
+  }
+}

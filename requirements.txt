@@ -1,0 +1,8 @@
+# مثبّتة بدقة: الإصدارات الأحدث من mediapipe حذفت الحلول القديمة
+# وصارت تطلب تنزيل ملف الموديل من الشبكة، وهذا يكسر شرط العمل offline.
+mediapipe==0.10.14
+insightface>=0.7.3
+onnxruntime>=1.17
+opencv-python>=4.9
+numpy<2
+pytest>=8.0
